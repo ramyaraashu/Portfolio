@@ -657,7 +657,7 @@ footer span a:hover {
     text-decoration: underline;
 }
 
-/* .call-buton .cc-calto-action-ripple {
+.call-buton .cc-calto-action-ripple {
     z-index: 99999;
     position: fixed;
     right: 1rem;
@@ -724,7 +724,7 @@ span.num {
     color: #ec8b00;
     left: -30%;
     bottom: -50%;
-} */
+} 
 
 /* responsive media query start */
 @media (max-width: 1104px) {
